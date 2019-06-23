@@ -7,11 +7,11 @@
 ### Example:
 ![alt text](https://github.com/Espadan/Person-reID-CNN_SA-baseline-pytorch/blob/master/docs/0pers.jpg)
 ## Results:
-### Accuracy/epoch:
+### Accuracy/Epoch:
 ![alt text](https://github.com/Espadan/Person-reID-CNN_SA-baseline-pytorch/blob/master/docs/acc.JPG)
-### Loss/epoch:
+### Loss/Epoch:
 ![alt text](https://github.com/Espadan/Person-reID-CNN_SA-baseline-pytorch/blob/master/docs/loss.JPG)
-### mAP/epoch:
+### mAP/Epoch:
 ![alt text](https://github.com/Espadan/Person-reID-CNN_SA-baseline-pytorch/blob/master/docs/map.JPG)
 ### time(sec)/40epoch:
-#![alt text](https://github.com/Espadan/Person-reID-CNN_SA-baseline-pytorch/blob/master/docs/train%20time.jpg)
+![alt text](https://github.com/Espadan/Person-reID-CNN_SA-baseline-pytorch/blob/master/docs/train%20time.jpg)
