@@ -1,4 +1,4 @@
-# Person-reID-CNN_SA-baseline-pytorch
+# Person-reID-CNN_Self-Attention-baseline-pytorch
 
 ## The architecture of CNN_SA-baseline:
 ![alt text](https://github.com/Espadan/Person-reID-CNN_SA-baseline-pytorch/blob/master/docs/CNN.png)
